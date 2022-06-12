@@ -19,4 +19,4 @@ I need to gauge the possibility of smooth responsibility shift from retiring sta
 
 Retirees|Mentors
 ---|---
-![](Data/retirement_titles_nums.png)|![](data/mentors_1962_65_by_title_nums.png)
+![](Data/retirement_titles_nums.png)|![](Data/mentors_1962_65_by_title_nums.png)
